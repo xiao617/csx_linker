@@ -1,0 +1,22 @@
+body{
+	background-color: #f0f0f5;
+}
+.bgimage{
+	border-style:outset;
+}
+#namelist{
+	position: relative;
+	top: 2em;
+	color:#32324e;
+}
+.inword{
+	padding-left: 4.8em;
+	color: #63639c;
+}
+#yolo{
+	position: relative;
+	top: 1em;
+	left:1em;
+	color:#50507c;
+	font-size: 1.8em;
+}
